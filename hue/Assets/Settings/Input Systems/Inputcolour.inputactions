@@ -1,0 +1,134 @@
+{
+    "name": "Inputcolour",
+    "maps": [
+        {
+            "name": "changeColours",
+            "id": "18dac5ec-84a4-41ea-870b-5a825f07ca18",
+            "actions": [
+                {
+                    "name": "cskyblue",
+                    "type": "Button",
+                    "id": "3cde999d-b498-4eef-87c1-18ad3193e647",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "cgreen",
+                    "type": "Button",
+                    "id": "cbb1fb81-4df7-4012-93cc-f02231af5e73",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "cred",
+                    "type": "Button",
+                    "id": "1ed7e244-ed4a-44fd-9513-bf1b6c18771b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "cdarkblue",
+                    "type": "Button",
+                    "id": "77676c4b-e0df-43e0-800a-68f11493644c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "cyellow",
+                    "type": "Button",
+                    "id": "34d60201-a9cd-4735-b4fd-d1ceb8f9b3a9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "cpink",
+                    "type": "Button",
+                    "id": "6384d113-4fdc-4c09-ab37-2e4d2ef724a3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cf3c6620-7412-4ad2-823f-52a14ba56c53",
+                    "path": "<Keyboard>/u",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cskyblue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a7f31a36-d607-4188-aab3-cdc6687c7a33",
+                    "path": "<Keyboard>/i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cgreen",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "550c8d96-6cf8-405d-a3d6-66fc1dc6a96e",
+                    "path": "<Keyboard>/o",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cred",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1b104ffc-d4aa-473d-b08c-ede5bea5b3c8",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cdarkblue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a049a2b8-7054-418a-bdae-53916a596828",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cyellow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "508adcff-5a92-460b-b93c-e77a8c835ead",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cpink",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
